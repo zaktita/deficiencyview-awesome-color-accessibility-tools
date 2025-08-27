@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdeficiencyview.com)](https://deficiencyview.com)
 [![Made with ❤️ for Accessibility](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20for%20Accessibility-blue)](https://deficiencyview.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 🚀 **DeficiencyView** is a free online tool that helps designers and developers test color accessibility.  
 It allows you to preview **images** and **websites** under different types of color vision deficiencies.
@@ -27,7 +26,7 @@ No signup. No installation. 100% free.
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://deficiencyview.com/og-image.png" alt="DeficiencyView Preview" width="600">
+  <img src="https://deficiencyview.com/assets/SimulationImage-CDUwYczl.png" alt="DeficiencyView Preview" width="600">
 </p>
 
 ---
